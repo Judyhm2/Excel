@@ -16,6 +16,8 @@ To view file the file Kickstarter_Challenge) and unzip.
 ## Deliverable 2: Outcomes Based on Goals Chart
 For the Outcomes based on Goals, Percentage failed were the highest at 45000 to 49999. While, percentage cancelled were the highest 35000 to 39999. In the chart below, there were multiple times when the failed percentage and the success percentage intersected. They intersect each other at 15000 to 19999, between the 30000 to 34999 and the 35000 to 39999 points and once more again between the 40000 to 44999 and the 45000 to 49999 points. Please see the image below for the Outcomes Based on Goals chart.
 
+![](https://github.com/Judyhm2/Excel/blob/main/Deliverable1-2.png)
+
 ## Outcome vs Goals Image.
 
 Deliverable 3: A written analysis of the results
